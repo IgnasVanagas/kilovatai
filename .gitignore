@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+artifacts/
+test-results/
+playwright-report/
+.vercel/
+.deployment-check/
+.env
+.env.*
+!.env.example
+*.log

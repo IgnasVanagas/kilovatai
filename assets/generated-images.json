@@ -1,0 +1,18 @@
+{
+  "mode": "Built-in image_gen",
+  "purpose": "Illustrative website imagery; not photographs of completed Kilovatai projects.",
+  "assets": [
+    {
+      "path": "public/images/solar-home.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium Lithuanian solar energy company website hero, wide landscape 1536x1024. Create an editorial architectural photograph of a beautiful modern single-story Scandinavian dark timber house in a Lithuanian countryside clearing with a very large immaculate dark blue-black photovoltaic solar panel pitched roof. Camera view three quarters from slightly elevated position; building fills right two-thirds and lower part of image, beautiful green lawn foreground, mature leafy trees and pines in background. LEFT THIRD is mostly dark out-of-focus forest and dark green foliage, suitable for white text overlay, house largely on right. Late afternoon warm sunshine from upper right, authentic European lush green summer setting, stylish but modest residence, dramatic deep forest green palette with warm natural highlights and muted neutral siding. Visible precise coherent solar panel grid, large glazed windows, small wood terrace. High-end architectural magazine photography, realistic natural textures, 35mm lens, crisp yet softly cinematic. Wide composition, no text, no logos, no people, no watermarks. Important: visually dark forest left, sunlit solar house right. Deliver an image, not a website mockup."
+    },
+    {
+      "path": "public/images/ev-charger.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: website service card photo for Lithuanian renewable energy installer. A minimalist high-end wall-mounted electric vehicle charger on the charcoal timber exterior of a Scandinavian house. Matte graphite slim rectangular EV charger, tiny green status light, tidy black charging cable hangs in smooth loop and runs to cropped rear quarter of silver electric car at far right. Warm sunlight and leafy reflections, a little ornamental grass in lower left, restrained architectural magazine composition. Medium close architectural photograph, 50mm lens, natural tactile materials, elegant desaturated warm green and neutral palette, realistic not CGI. Landscape 1536x1024. Charger on left center, vehicle subtly visible right. No brand names, no text, no logos, no people, no watermarks."
+    },
+    {
+      "path": "public/images/solar-detail.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium sustainable energy company website about section, portrait composition 1024x1536. A beautiful close architectural photograph of dark deep blue photovoltaic solar panel rows installed on a low roof in a leafy Lithuanian countryside setting. Panels dominate foreground and middle of image, with precise visible grid silver very thin grid lines, aligned modern black frames. Gentle diagonal perspective across the modules leading toward lush green treetops and field beyond at upper right. A warm afternoon sun highlights panel glass but no glaring white reflection. Emphasize tactile high quality solar cell texture, forest greenery, natural engineering beauty. Desaturated elegant organic greens and blue graphite palette, sunlit, authentic, premium editorial photography. Composition panel array fills lower two thirds, leafy tree and countryside in upper third. No houses prominently visible, no text, no logo, no watermark, no humans. This is an atmospheric solar energy photograph, not a product mockup."
+    }
+  ]
+}

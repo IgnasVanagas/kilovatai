@@ -1,0 +1,16 @@
+.git/
+.vercel/
+.deployment-check/
+node_modules/
+dist/
+artifacts/
+assets/
+test-results/
+playwright-report/
+tests/
+playwright*.config.js
+.env
+.env.*
+*.log
+.DS_Store
+README.md
